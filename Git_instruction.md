@@ -56,3 +56,5 @@ git checkout *
 ```
 git merge *
 ```
+### 11. Документация Git
+https://git-scm.com/doc
