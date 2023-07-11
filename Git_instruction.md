@@ -66,4 +66,10 @@ git branch -d *
 =======
 ### 11. Документация Git
 https://git-scm.com/doc
+<<<<<<< HEAD
 >>>>>>> 1
+=======
+
+https://git-scm.com/videos
+
+>>>>>>> 2
